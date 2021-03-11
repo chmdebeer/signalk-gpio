@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "chmdebeer@gmail.com"
+  },
+  "description": "Signal K GPIO interface",
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "signalk-gpio",
+  "version": "0.0.1",
+  "dependencies": {
+    "onoff": "latest"
+  }
+}
